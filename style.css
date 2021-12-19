@@ -22,6 +22,26 @@
     flex: 0 0 12px;
     /* border:solid 0.1px #333 */
 }
+.wc {
+    width:12px;
+    height:12px;
+    flex: 0 0 12px;
+    margin-left: -2px;
+    /* border:solid 0.1px #333; */
+}
+.singleup {
+    width:12px;
+    height:24px;
+    flex: 0 0 12px;
+    /* border:solid 0.1px #333; */
+    margin-left: -9px;
+}
+.yg {
+    width:9px;
+    height:24px;
+    flex: 0 0 12px;
+    /* border:solid 0.1px #333; */
+}
 .double {
     width:24px;
     height:12px;
