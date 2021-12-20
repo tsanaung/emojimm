@@ -71,7 +71,7 @@ path {
     /* border:solid 0.1px #333; */
 }
 
-path, circle {
+path, circle, rect {
     fill: none;
     stroke: #f00;
     stroke-width: 12;
@@ -81,4 +81,5 @@ path, circle {
     display: flex;
     justify-content: center;
     padding: 1rem;
+    margin: 1.5rem;
 }
